@@ -32,15 +32,6 @@ v = D / Δx
 - Diffusion and transport-based reasoning  
 - Mathematical abstraction  
 - Graphical visualization (Desmos)
-
-## Future Work
-Future developments may include:
-
-- More biologically realistic modeling  
-- Integration with ion channel dynamics  
-- Computational simulations  
-- Extensions to neuromorphic systems  
-- Exploration of links between physical processes and cognition  
-
+  
 ## Author
 Independent student researcher interested in physics, neurophysics, and theoretical modeling
